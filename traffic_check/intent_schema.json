@@ -1,0 +1,6 @@
+{
+  "intents": [
+    {"intent": "Home"},
+    {"intent": "Work"}
+  ]
+}
