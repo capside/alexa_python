@@ -1,0 +1,2 @@
+GiveMeSomething {Numbertype} number
+GiveMeSomething {Numbertype} figure
