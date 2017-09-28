@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Numbertype",
+          "type": "numname"
+        }
+      ],
+      "intent": "GiveMeSomething"
+    }
+  ]
+}
