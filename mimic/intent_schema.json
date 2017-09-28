@@ -1,0 +1,12 @@
+{
+  "intents": [
+    { "intent": "SpeakLike",
+      "slots": [
+        {
+          "name": "character",
+          "type": "character_slot"
+        }
+      ]      
+    }
+  ]
+}
