@@ -2,4 +2,4 @@
 
 Configuración de la lambda
 
-[[screen.gif|alt='lambda conf']]
+![Config de la lambda](screen.gif?raw=true "Title")
