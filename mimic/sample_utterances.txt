@@ -1,0 +1,3 @@
+SpeakLike talk like {character}
+SpeakLike say as if you were {character}
+SpeakLike quote {character}
